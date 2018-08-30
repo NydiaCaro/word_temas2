@@ -1,0 +1,4 @@
+base de datos= word-temas2
+titulo del sitio= temas_2
+usuario= nydia
+contraseña= 1980butuiti
